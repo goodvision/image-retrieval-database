@@ -2,8 +2,8 @@ image-retrieval-database
 ========================
 
 寻找图像数据库的问答：
-1. 知乎：[做图像检索，图像库从哪儿能下载到？](http://www.zhihu.com/question/25039851)
 
+1. 知乎：[做图像检索，图像库从哪儿能下载到？](http://www.zhihu.com/question/25039851)
 2. [Where can I get Corel 5k dataset?](http://www.quora.com/Where-can-I-get-Corel-5k-dataset)
 
 ## corel数据库
