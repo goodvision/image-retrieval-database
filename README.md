@@ -14,7 +14,7 @@ image-retrieval-database
 2. [The COREL Database for Content based Image Retrieval](https://sites.google.com/site/dctresearch/Home/content-based-image-retrieval)
 3. [Corel-5K and Corel -10K Datasets](http://www.ci.gxnu.edu.cn/cbir/Dataset.aspx)该页面下面给出了图片的链接，可以用python写个脚本把它们爬下来。
 4. [INSTRE](http://vipl.ict.ac.cn/isia/instre/)，中科院计算所弄的一个数据库28543张图片，还有他们做的web检索系统[ISIA](http://vipl.ict.ac.cn/isia/home.aspx)。
-
-[**Image Similarity Triplet Dataset**](http://users.eecs.northwestern.edu/~jwa368/my_data.html)
+5. [MIRFLICKR 1M数据库](http://press.liacs.nl/mirflickr/mirdownload.html)，100多g，亲测可以下载。
+6. [Image Similarity Triplet Dataset](http://users.eecs.northwestern.edu/~jwa368/my_data.html)
 
 
